@@ -1,7 +1,7 @@
 # **ML - Learn With Me**
 
-- Numpy Tutorial for beginners
-- Pytorch Basics
-- Statistical Measures
-- Area under the curve
-- Simple Linear Regression
+1. Numpy Tutorial for beginners
+2. Pytorch Basics
+3. Statistical Measures
+4. Area under the curve
+5. Simple Linear Regression
