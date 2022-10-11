@@ -5,3 +5,4 @@
 3. Statistical Measures
 4. Area under the curve
 5. Simple Linear Regression
+6. Introduction to Plotting
