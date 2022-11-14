@@ -7,3 +7,4 @@
 5. Simple Linear Regression
 6. Introduction to Plotting
 7. Handling with Missing Data
+8. Understanding Decision Trees and Random Forest
